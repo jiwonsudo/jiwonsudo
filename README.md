@@ -1,5 +1,4 @@
-## Jiwon Jeong
-### S/W Eng. (Front-End)
+### Jiwon Jeong | S/W Eng. (Front-End)
 <p>📍Seoul, Republic of Korea</p>
 <br>
 
