@@ -1,4 +1,6 @@
-<h2> Jiwon Jeong </h2> <p>📍Seoul, Republic of Korea</p>
+## Jiwon Jeong
+### S/W Eng. (Front-End)
+<p>📍Seoul, Republic of Korea</p>
 <br>
 
 ## 🎓 Education
