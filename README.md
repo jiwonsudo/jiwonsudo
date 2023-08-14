@@ -18,7 +18,6 @@
 * MCHS 소프트웨어 공모전 최우수상 | SW Competition Grand Prize | Dec 2021
 <br><br>
 
-<br>
 * Links
 <br>
 <a href='https://www.jiwon.site'>
@@ -28,9 +27,6 @@
 <a href='https://velog.io/@wondev'>
 <img src="https://img.shields.io/badge/Velog / Jiwonsudo-000?style=flat-square&logo=velog"/>
 </a>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=215EB6&height=200&section=footer)
-
 
 <!-- <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명"/> -->
 <!-- <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/> -->
