@@ -18,7 +18,6 @@
 * MCHS 소프트웨어 공모전 최우수상 | SW Competition Grand Prize | Dec 2021
 <br><br>
 
-* Links
 <br>
 <a href='https://www.jiwon.site'>
 <img src="https://img.shields.io/badge/Jiwon_WebSite-000?style=flat-square"/>
