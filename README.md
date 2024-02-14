@@ -15,7 +15,7 @@
 
 ## 🏆 Awards
 ---
-* MCHS 소프트웨어 공모전 최우수상 | SW Competition Grand Prize | Dec 2021
+* 매천고등학교 소프트웨어 공모전 최우수상 | MCHS Software Competition Grand Prize | Dec 2021
 * 멋쟁이사자처럼 대학 11기 상명대 교내해커톤 1위 | 11th LIKELION UNIV Campus Hackathon (SMU) Grand Prize | JUN 2023
 <br><br>
 
