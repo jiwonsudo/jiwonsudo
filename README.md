@@ -20,12 +20,12 @@
 <br><br>
 
 <br>
-<a href='https://www.jiwon.site'>
-<img src="https://img.shields.io/badge/Jiwon_WebSite-000?style=flat-square"/>
+<a href='https://jiwonsudo.github.io/Jiwon-Web/'>
+<img src="https://img.shields.io/badge/My self-introduction website-000?style=flat-square"/>
 </a>
 <br>
-<a href='https://velog.io/@wondev'>
-<img src="https://img.shields.io/badge/Velog / Jiwonsudo-000?style=flat-square&logo=velog"/>
+<a href='https://jiwonco.tistory.com'>
+<img src="https://img.shields.io/badge/My tech blog (Tistory)-000?style=flat-square"/>
 </a>
 
 <!-- <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명"/> -->
