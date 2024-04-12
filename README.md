@@ -21,7 +21,7 @@
 
 <br>
 <a href='https://jiwonsudo.github.io/Jiwon-Web/'>
-<img src="https://img.shields.io/badge/My self-introduction website-000?style=flat-square"/>
+<img src="https://img.shields.io/badge/My self introduction website-000?style=flat-square"/>
 </a>
 <br>
 <a href='https://jiwonco.tistory.com'>
