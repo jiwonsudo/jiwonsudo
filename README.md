@@ -10,7 +10,8 @@
 
 ## 🎒 Activity
 ---
-* 멋쟁이사자처럼 대학 11기 프론트엔드 | 11th LIKELION UNIV Front-End Team
+* 멋쟁이사자처럼 대학 11기 프론트엔드 | 11th LIKELION UNIV Front-End Team | Mar 2023 - Dec 2023
+* Let's SOPT 38기 웹파트 YB | 38th Let's SOPT Web Part YB | Mar 2026 - Aug 2026
 <br><br>
 
 ## 🏆 Awards
