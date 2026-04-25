@@ -22,15 +22,15 @@
 
 <br>
 <a href='https://jiwonsudo.github.io/Jiwon-Web/'>
-<img src="https://img.shields.io/badge/Portfolio-000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Portfolio-C0C3C4?style=flat-square"/>
 </a>
 <br>
 <a href='https://jiwonco.tistory.com'>
-<img src="https://img.shields.io/badge/Tech blog (Tistory)-000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tech blog (Tistory)-CFAD99?style=flat-square"/>
 </a>
 <br>
 <a href='www.linkedin.com/in/지원-정-747b16301'>
-<img src="https://img.shields.io/badge/LinkedIn Profile-000?style=flat-square"/>
+<img src="https://img.shields.io/badge/LinkedIn Profile-81AFC9?style=flat-square"/>
 </a>
 
 <!-- <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명"/> -->
