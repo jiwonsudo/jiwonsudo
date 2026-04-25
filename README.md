@@ -4,7 +4,7 @@
 
 ## 🎓 Education
 ---
-* 매천고등학교 소프트웨어중점교육과정반 | Software Focused Curriculum Class in Maecheon High School (MCHS)
+* 매천고등학교 SW중점교육과정 | Software Focused Curriculum in Maecheon High School (MCHS)
 * 상명대학교 컴퓨터과학전공 | Computer Science in Sangmyung University (SMU)
 <br><br>
 
@@ -22,11 +22,15 @@
 
 <br>
 <a href='https://jiwonsudo.github.io/Jiwon-Web/'>
-<img src="https://img.shields.io/badge/My self introduction website-000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Portfolio-000?style=flat-square"/>
 </a>
 <br>
 <a href='https://jiwonco.tistory.com'>
-<img src="https://img.shields.io/badge/My tech blog (Tistory)-000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tech blog (Tistory)-000?style=flat-square"/>
+</a>
+<br>
+<a href='www.linkedin.com/in/지원-정-747b16301'>
+<img src="https://img.shields.io/badge/LinkedIn Profile-000?style=flat-square"/>
 </a>
 
 <!-- <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명"/> -->
