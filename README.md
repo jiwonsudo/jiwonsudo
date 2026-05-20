@@ -18,6 +18,7 @@
 ---
 * 매천고등학교 소프트웨어 공모전 최우수상 | MCHS Software Competition Grand Prize | Dec 2021
 * 멋쟁이사자처럼 대학 11기 상명대 교내해커톤 1위 | 11th LIKELION UNIV Campus Hackathon (SMU) Grand Prize | JUN 2023
+* 제5회 철풍창업경진대회 우수상 (제5기갑여단 여단장상) |  5th Armored Brigade Startup Competition 2nd Place | Sep 2024
 <br><br>
 
 <br>
