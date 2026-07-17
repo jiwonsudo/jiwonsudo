@@ -22,7 +22,7 @@
 <br><br>
 
 <br>
-<a href='https://jiwonsudo.github.io/Jiwon-Web/'>
+<a href='https://jiwonsudo.github.io/portfolio/'>
 <img src="https://img.shields.io/badge/Portfolio-C0C3C4?style=flat-square"/>
 </a>
 <br>
