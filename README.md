@@ -12,6 +12,7 @@
 ---
 * 멋쟁이사자처럼 대학 11기 프론트엔드 | 11th LIKELION UNIV Front-End Team | Mar 2023 - Dec 2023
 * Let's SOPT 38기 웹파트 YB | 38th Let's SOPT Web Part YB | Mar 2026 - Aug 2026
+* GDGoC SMU 7기 AI Team 멤버 | 7th GDGoC SMU AI Team Member | Sep 2026 - Present
 <br><br>
 
 ## 🏆 Awards
